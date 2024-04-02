@@ -34,7 +34,7 @@ label {
 }
 
 input[type="range"] {
-  width: 100%;
+  width: 110%;
 }
 
 .result {
@@ -63,8 +63,8 @@ input[type="text"]::selection {
 }
 
 button {
-  background-color: #0075ff;
+  background-color: #1d508a;
   color: #ffffff;
-  font-weight: 600;
+  font-weight: 500;
   cursor: pointer;
 }
